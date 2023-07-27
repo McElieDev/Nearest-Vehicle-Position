@@ -15,14 +15,14 @@ using static System.Console;
 using System;
 using System.Linq;
 
-namespace MixTelematicsAssessment
+namespace NearestVehiclePosition
 {
     public class Program
     {
 
         public static void Main(string[] args)
         {
-            var filename = @"D:\Source\repo\MixTelematcis\MixTelematicsAssessment\BinaryFile\VehiclePositions.dat";
+            var filename = @"~\BinaryFile\VehiclePositions.dat";
             LoadDataFromFile(filename);
 
             ReadKey();

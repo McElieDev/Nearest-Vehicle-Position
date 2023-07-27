@@ -1,0 +1,15 @@
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\NearestVehiclePosition.csproj.AssemblyReference.cache
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\NearestVehiclePosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\NearestVehiclePosition.AssemblyInfoInputs.cache
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\NearestVehiclePosition.AssemblyInfo.cs
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\NearestVehiclePosition.csproj.CoreCompileInputs.cache
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\bin\Debug\net6.0\NearestVehiclePosition.exe
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\bin\Debug\net6.0\NearestVehiclePosition.deps.json
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\bin\Debug\net6.0\NearestVehiclePosition.runtimeconfig.json
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\bin\Debug\net6.0\NearestVehiclePosition.dll
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\bin\Debug\net6.0\NearestVehiclePosition.pdb
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\NearestVehiclePosition.dll
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\refint\NearestVehiclePosition.dll
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\NearestVehiclePosition.pdb
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\NearestVehiclePosition.genruntimeconfig.cache
+D:\Source\repo\MixTelematcis\Nearest-Vehicle-Position\obj\Debug\net6.0\ref\NearestVehiclePosition.dll

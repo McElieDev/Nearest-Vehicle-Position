@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MixTelematicsAssessment
+namespace NearestVehiclePosition
 {
     public class Vehicle
     {

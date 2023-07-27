@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MixTelematicsAssessment
+namespace NearestVehiclePosition
 {
     /// <summary>
     ///  BinaryDecoder class focus on Reading the Binary file (.dat),
