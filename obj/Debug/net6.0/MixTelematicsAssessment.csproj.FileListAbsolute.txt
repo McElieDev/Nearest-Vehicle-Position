@@ -1,0 +1,15 @@
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\bin\Debug\net6.0\MixTelematicsAssessment.exe
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\bin\Debug\net6.0\MixTelematicsAssessment.deps.json
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\bin\Debug\net6.0\MixTelematicsAssessment.runtimeconfig.json
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\bin\Debug\net6.0\MixTelematicsAssessment.dll
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\bin\Debug\net6.0\MixTelematicsAssessment.pdb
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\MixTelematicsAssessment.csproj.AssemblyReference.cache
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\MixTelematicsAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\MixTelematicsAssessment.AssemblyInfoInputs.cache
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\MixTelematicsAssessment.AssemblyInfo.cs
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\MixTelematicsAssessment.csproj.CoreCompileInputs.cache
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\MixTelematicsAssessment.dll
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\refint\MixTelematicsAssessment.dll
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\MixTelematicsAssessment.pdb
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\MixTelematicsAssessment.genruntimeconfig.cache
+D:\Source\repo\MixTelematcis\MixTelematicsAssessment\obj\Debug\net6.0\ref\MixTelematicsAssessment.dll
